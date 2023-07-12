@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ischollETH (Ian Andreas Scholl)
 - 👀 I’m interested in Robotics, Machine Learning and Computer Vision
-- 🌱 I’m currently studying Mechanical Engineering with a focus on Robotics, Systems and Control at ETH Zürich
+- 🌱 I’m currently studying Mechanical Engineering with a focus on Robotics, Systems and Control at ETH Zürich / writing my Master's Thesis at the CHARM Lab of Stanford University
 - 📫 Reach me at ischoll (at) student.ethz.ch
